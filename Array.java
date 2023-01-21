@@ -8,5 +8,8 @@ public class Array {
         // overwrite array element
         // grades[0] = 900;
         System.out.println(Arrays.toString(grades));
+
+        // int[][] grades1 = { { 7, 8, 4 }, { 5, 2, 9 } };
+        // System.out.println(Arrays.deepToString(grades));
     }
 }
