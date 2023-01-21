@@ -14,6 +14,8 @@ public class InputOutput {
         // scanner is the name of the var=identifer
         // Scanner is the type.
         String name = scanner.nextLine();
+        // this scanner is not static cuz it instance from line 11
+        // if static -> suppose to be Scanner.nextLine();
         // output
         System.out.println("Hello " + name);
     }
