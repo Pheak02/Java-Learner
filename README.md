@@ -12,3 +12,9 @@ The principle here is to understand every single line of the code!
 //access modifer(public, private, protected) - who can see?
 //static - No instance of class is needed
 //object - instance of a class.
+
+//variable - store some value
+//expression - evaluate to a value
+//operator(+) - work on operands to produce a value or which means combine things together  
+ ex : System.out.println(string + ":)");
+//operand - the things the operator works on
