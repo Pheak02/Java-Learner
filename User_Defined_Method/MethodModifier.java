@@ -6,7 +6,7 @@ public class MethodModifier {
 
     }
 
-    public static void add(int a, int b) { // won't be a class - can't be call to use
+    private static void add(int a, int b) { // won't be a class - can't be call to use
         int c = a + b;
         System.out.println(c);
     }
