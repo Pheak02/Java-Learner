@@ -5,6 +5,7 @@ public class StringMethod {
         // may have to slit the word of string first
         System.out.println(mainStatement.lastIndexOf('a'));
         System.out.println(mainStatement.substring(15));
+        System.out.println(mainStatement.substring(15, 20));
 
     }
 }
