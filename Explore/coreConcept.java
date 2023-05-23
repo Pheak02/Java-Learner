@@ -12,10 +12,17 @@ public class coreConcept {
         // when don't have sort of (), put ;
         System.out.println(name.toUpperCase()); // use with method()
         addExlamationPoint("Good Job, Pheak");
+        // TO USE RETURN
+        String returnSth = tryingToUseReturn("Good Job, Meisme");
+        System.out.println(returnSth);
 
     }
 
     public static void addExlamationPoint(String s) {
         System.out.println(s + "!");
+    }
+
+    public static String tryingToUseReturn(String R) {
+        return R + "!";
     }
 }
