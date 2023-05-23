@@ -13,4 +13,8 @@ public class coreConcept {
         System.out.println(name.toUpperCase()); // use with method()
 
     }
+
+    public static void addExlamationPoint(String s) {
+        System.out.println(s + "!");
+    }
 }
