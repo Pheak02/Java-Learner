@@ -2,6 +2,7 @@ package Explore;
 
 public class coreConcept {
     public static void main(String[] args) {
+        // USE ONE AND TWO METHODS
         // Primitive Type number - turn blue
         int a = 4;
         char b = 'B';
@@ -16,6 +17,11 @@ public class coreConcept {
         String returnSth = tryingToUseReturn("Good Job, Meisme");
         System.out.println(returnSth);
 
+        // CALL CLASS OBJECT FROM ANOTHER FILE
+        animal m = new animal();
+        String monkey = m.iAmMonkey();
+        System.out.println(monkey);
+
     }
 
     public static void addExlamationPoint(String s) {
@@ -25,4 +31,5 @@ public class coreConcept {
     public static String tryingToUseReturn(String R) {
         return R + "!";
     }
+
 }
