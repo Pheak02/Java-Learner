@@ -11,6 +11,7 @@ public class coreConcept {
         String name = "Meisme";
         // when don't have sort of (), put ;
         System.out.println(name.toUpperCase()); // use with method()
+        addExlamationPoint("Good Job, Pheak");
 
     }
 
