@@ -22,6 +22,10 @@ public class coreConcept {
         String monkey = m.iAmMonkey();
         System.out.println(monkey);
 
+        //
+        animal g = new animal();
+        g.doStuff();
+
     }
 
     public static void addExlamationPoint(String s) {
