@@ -13,6 +13,7 @@ public class Maps {
         numbers.put("Two", 2);
         numbers.put("Three", 3);
         System.out.println("HashMap after put(): " + numbers);
-
+        numbers.putIfAbsent("Hundred", 100);
+        System.out.println("HashMap after put()insert specific value, that's not present: " + numbers);
     }
 }
