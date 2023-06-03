@@ -10,7 +10,7 @@ public class Maps {
         empIds.put("kalo", 03);
         System.out.println(empIds);
         System.out.println(empIds.get("kalo"));
-        System.out.println(empIds.containsValue("sopheak"));
+        System.out.println(empIds.containsValue(01));
         System.out.println(empIds.containsKey("sopheak"));
 
     }
