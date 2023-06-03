@@ -15,5 +15,7 @@ public class Maps {
         System.out.println("HashMap after put(): " + numbers);
         numbers.putIfAbsent("Hundred", 100);
         System.out.println("HashMap after put()insert specific value, that's not present: " + numbers);
+        numbers.clear();
+        System.out.println("Map after using clear method:" + numbers);
     }
 }
