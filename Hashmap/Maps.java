@@ -14,6 +14,14 @@ public class Maps {
         System.out.println(empIds.containsKey("sopheak"));
         // OVERWRITE OLD VALUE
         empIds.put("kalo", 04);
+        System.out.println(empIds);
+        empIds.putIfAbsent("Jonh", 222);
+        System.out.println(empIds);
+
+        empIds.putIfAbsent("Thida", 2525);
+        System.out.println(empIds);
+        empIds.remove("Thida", 2525);
+        System.out.println(empIds);
 
     }
 }
