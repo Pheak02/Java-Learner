@@ -12,6 +12,8 @@ public class Maps {
         System.out.println(empIds.get("kalo"));
         System.out.println(empIds.containsValue(01));
         System.out.println(empIds.containsKey("sopheak"));
+        // OVERWRITE OLD VALUE
+        empIds.put("kalo", 04);
 
     }
 }
