@@ -17,5 +17,8 @@ public class Maps {
         System.out.println("HashMap after put()insert specific value, that's not present: " + numbers);
         numbers.clear();
         System.out.println("Map after using clear method:" + numbers);
+        // reinitialize the hashmap
+        numbers = new HashMap<>();
+        System.out.println("New HashMap: " + numbers);
     }
 }
