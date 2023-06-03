@@ -8,7 +8,7 @@ public class Maps {
         empIds.put("Meisme", 01);
         empIds.put("Dnao", 02);
         empIds.put("kalo", 03);
-
+        System.out.println(empIds);
 
     }
 }
