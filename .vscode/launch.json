@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "employeeHour",
+      "request": "launch",
+      "mainClass": "employeeHour",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
+      "name": "Ch3_Exercise8",
+      "request": "launch",
+      "mainClass": "Ch3_Exercise8",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
       "name": "Maps",
       "request": "launch",
       "mainClass": "Hashmap.Maps",
@@ -19,7 +33,10 @@
       "jdkPath": "${env:JAVA_HOME}/bin",
       "cwd": "${fileDirname}",
       "startupClass": "${fileBasenameNoExtension}",
-      "classpath": [".", "${fileDirname}"]
+      "classpath": [
+        ".",
+        "${fileDirname}"
+      ]
     },
     {
       "name": "Java Console App",
@@ -29,7 +46,10 @@
       "jdkPath": "${env:JAVA_HOME}/bin",
       "cwd": "${fileDirname}",
       "startupClass": "${fileBasenameNoExtension}",
-      "classpath": [".", "${fileDirname}"],
+      "classpath": [
+        ".",
+        "${fileDirname}"
+      ],
       "externalConsole": true
     },
     {
