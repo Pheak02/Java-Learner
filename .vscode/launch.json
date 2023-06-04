@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ex2",
+      "request": "launch",
+      "mainClass": "Hashmap.ex2",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
+      "name": "EmployeeHour",
+      "request": "launch",
+      "mainClass": "Hashmap.EmployeeHour",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
+      "name": "employeeHour",
+      "request": "launch",
+      "mainClass": "Hashmap.employeeHour",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
       "name": "employeeHour",
       "request": "launch",
       "mainClass": "employeeHour",
