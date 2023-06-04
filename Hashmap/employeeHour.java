@@ -19,15 +19,15 @@ public class employeeHour {
         employeeWorkingHour.put("Employee 7 ", new ArrayList<>(Arrays.asList(3, 7, 4, 8, 3, 8, 4)));
         employeeWorkingHour.put("Employee 8 ", new ArrayList<>(Arrays.asList(6, 3, 5, 9, 2, 7, 9)));
 
-        // System.out.println(" Su M T W Th F Sa");
         // print each key to separate employee in row
 
+        System.out.println("\t    Su  M  T  W  Th  F  Sa");
         for (HashMap.Entry<String, List<Integer>> entry : employeeWorkingHour.entrySet()) {
             String key = entry.getKey();
             List<Integer> values = entry.getValue();
             System.out.print(key + ": ");
             for (int value : values) {
-                System.out.print(value + " ");
+                System.out.print(value + "  ");
             }
             System.out.println();
         }
