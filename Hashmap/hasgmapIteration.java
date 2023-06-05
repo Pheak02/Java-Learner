@@ -3,7 +3,7 @@ package Hashmap;
 import java.util.HashMap;
 import java.util.Map.Entry;
 
-class javaIteration {
+class hasgmapIteration {
     public static void main(String[] args) {
 
         // create a HashMap
