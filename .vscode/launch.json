@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SwitchSatement",
+      "request": "launch",
+      "mainClass": "SwitchSatement",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
       "name": "output",
       "request": "launch",
       "mainClass": "output",
