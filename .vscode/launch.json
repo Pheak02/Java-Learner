@@ -6,6 +6,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "output",
+      "request": "launch",
+      "mainClass": "output",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
+      "name": "ternary$Java",
+      "request": "launch",
+      "mainClass": "operators.ternary$Java",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
+      "name": "nestedHashmap",
+      "request": "launch",
+      "mainClass": "Hashmap.nestedHashmap",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
+      "name": "javaIteration",
+      "request": "launch",
+      "mainClass": "Hashmap.javaIteration",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Hashmap.Main",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
+      "name": "chapter01_ex04",
+      "request": "launch",
+      "mainClass": "chapter01_ex04",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
+      "name": "chapter01_ex02",
+      "request": "launch",
+      "mainClass": "chapter01_ex02",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
+      "name": "Employee",
+      "request": "launch",
+      "mainClass": "Employee",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
+      "name": "chapter01_ex01",
+      "request": "launch",
+      "mainClass": "chapter01_ex01",
+      "projectName": "Java-APL_a5314718"
+    },
+    {
+      "type": "java",
       "name": "ex2",
       "request": "launch",
       "mainClass": "Hashmap.ex2",
