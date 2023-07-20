@@ -2,10 +2,11 @@ import java.util.Scanner;
 
 class exercise {
     public static void main(String[] arg) {
+        Scanner month = new Scanner(System.in);
+        System.out.print("Enter an integer between 1 to 12 that represent the month: ");
+        Integer monthNum = month.nextInt();
         try {
-            Scanner month = new Scanner(System.in);
-            System.out.print("Enter an integer between 1 to 12 that represent the month: ");
-            Integer monthNum = month.nextInt();
+
             switch (monthNum) {
                 case 1:
                     System.out.println("31");
@@ -44,9 +45,13 @@ class exercise {
                     System.out.println("31");
                     break;
             }
+        } catch (ArithmeticException e) {
+            System.out.println(e);
+        } catch (ArrayIndexOutOfBoundsException e) {
+            System.out.println(e);
         } catch (Exception e) {
-            System.out.println(e.getMessage());
-
+            System.out.print(e);
         }
+
     }
 }
