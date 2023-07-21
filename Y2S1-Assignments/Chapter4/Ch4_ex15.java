@@ -1,4 +1,4 @@
-public class Homework15 {
+public class Ch4_ex15 {
     public static boolean isConsecutiveFour(int[][] array2D) {
         for (int i = 0; i < array2D.length; i++) {
             for (int j = 0; j < array2D[i].length; j++) {
