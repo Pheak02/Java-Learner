@@ -1,7 +1,8 @@
 import java.util.Collections;
 import java.util.ArrayList;
 
-public class Ch05_Exercise09 {
+public class Ch5_ex9 {
+
     public static void main(String[] args) {
 
         // Create a deck of 52 cards using ArrayList

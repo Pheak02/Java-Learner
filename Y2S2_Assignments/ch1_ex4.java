@@ -1,18 +1,16 @@
-// By Team06-ITE-M5-G8, Saing Sopheak
-
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class chapter01_ex04 {
+public class ch1_ex4 {
     public static final HashMap<String, String[]> ACCOUNTS = new HashMap<>(); // stores account information
 
     public static void main(String[] args) {
         // initialize account data
-        ACCOUNTS.put("001", new String[] { "Many", "1000.00", "1234" });
-        ACCOUNTS.put("002", new String[] { "Sopheak", "500.00", "5678" });
-        ACCOUNTS.put("003", new String[] { "Kimnak", "1500.00", "9012" });
-        ACCOUNTS.put("004", new String[] { "Khiev", "200.00", "3456" });
-        ACCOUNTS.put("005", new String[] { "Hok", "3000.00", "7890" });
+        ACCOUNTS.put("001", new String[] { "Alice", "1000.00", "1234" });
+        ACCOUNTS.put("002", new String[] { "Bob", "500.00", "5678" });
+        ACCOUNTS.put("003", new String[] { "Charlie", "1500.00", "9012" });
+        ACCOUNTS.put("004", new String[] { "David", "200.00", "3456" });
+        ACCOUNTS.put("005", new String[] { "Eve", "3000.00", "7890" });
 
         Scanner scanner = new Scanner(System.in);
         String accountNo, password;

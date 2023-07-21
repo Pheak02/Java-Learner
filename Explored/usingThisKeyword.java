@@ -151,7 +151,7 @@ class Student{
 }
 
 
-public class Program {
+public class usingThisKeyword {
     
     public static Scanner scanner = new Scanner(System.in);
 

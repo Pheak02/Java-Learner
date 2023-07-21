@@ -18,6 +18,6 @@ public class Hw2 {
             }
             System.out.println(); // to index new line - ចុះបន្ទាត់
 
-        }n
+        }
     }
 }
