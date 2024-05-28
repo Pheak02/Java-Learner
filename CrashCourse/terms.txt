@@ -1,7 +1,0 @@
-- package: 
-- class: 
-- method: sometimes also call function, its name sould be verb. 
-- variable
-- public
-- void: to return the value of the method.
-- @test : indicate that SAZW3EWWWQAWESAWXESAqwerfvcxzasxcv m bm cx
