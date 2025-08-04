@@ -12,7 +12,8 @@ public class PersonTest {
     }
 
     @Test
-    public void shouldReturnMeisme() {
+    public void shouldReturnHelloMeisme() {
         Person person = new Person();
+        assertEquals("Hello Meisme", person.hello("Meisme"));
     }
 }
