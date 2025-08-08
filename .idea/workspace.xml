@@ -1,102 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3af5353-2aa7-4f05-a4a1-6916672832b6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ArrayList/ArrayVsArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayList/forEachLoop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrashCourse/terms.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_usingJava/Quicksort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Explored/Foundation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Explored/InputOutput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Explored/Nested_ifElse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Explored/OOP6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Explored/OOP7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Explored/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Explored/classAndObj/animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Explored/classAndObj/coreConcept.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Explored/usingThisKeyword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashmap/hashmap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/DecToBinary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion/SumOfNaturalNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter1/Chapter1/Exercise10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter1/Chapter1/Homework01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter1/Exercise6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter2/AlsoWordCapitaliz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter2/CapitalFirstLetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter2/Ch2_Ex2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter2/Ch2_Ex7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter2/Ch2_Ex8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter2/LongestWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter2/NumberToWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter2/SortArrayOfCountryName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter3/Ch3_Exercise1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter3/Ch3_Exercise10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter3/Ch3_Exercise11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter3/Ch3_Exercise12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter3/Ch3_Exercise2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter3/Ch3_Exercise3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter3/Ch3_Exercise4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter3/Ch3_Exercise5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter3/Ch3_Exercise6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter3/Ch3_Exercise7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter3/Ch3_Exercise8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter3/Ch3_Exercise9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/CH4_Ex10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/Ch4_Exercise1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/Ch4_Exercise2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/Ch4_Exercise3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/Ch4_Exercise4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/Ch4_Exercise5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/Ch4_Exercise6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/Ch4_Exercise7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/Ch4_Exercise8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/Ch4_Exercise9_SaingSopheak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/Ch4_Exerecise16_SaingSopheak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/Ch4_ex13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/Ch4_ex14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter4/Ch4_ex15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter5/Ch5_Exercise1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Chapter5/Ch5_ex9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/CheckValidPW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/DecToHex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Exercise14week04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Exercise4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/HexToDec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Homeworkweek04Ex13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Hw2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/PlayCardSample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/Score.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/ThreeDArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/guessingWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S1-Assignments/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/Ch2_Ex3/ATM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/Ch2_Ex3/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/Exercise01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/Hashmap/Maps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/Hashmap/chapter01_ex01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/Hashmap/chapter01_ex02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/Hashmap/employeeHour.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/Hashmap/hasgmapIteration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/Hashmap/nestedHashmap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/OOP/interitance/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/OOP/interitance/calledParentsChildClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/RelationalDatabase/Ch5_Ex5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/ch1_ex4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/employeeHour.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/exceptionHandling/ch4_ex1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/exceptionHandling/ch4_ex2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/exceptionHandling/finallyBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/exceptionHandling/multiplCatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/exceptionHandling/multipleExceptionSingleCatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/exceptionHandling/throwKeyword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/exceptionHandling/throwsKeyword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/exceptionHandling/tryCatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/exercise4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Y2S2_Assignments/fileProcessing/Ch4_Ex6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/sumInputInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/operators/ternary.java" beforeDir="false" />
+    <list default="true" id="e3af5353-2aa7-4f05-a4a1-6916672832b6" name="Changes" comment="les04: package, import, instance member, default constructor">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,12 +27,28 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/saing/Downloads/Learn/github/Java-Learner&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -135,7 +60,43 @@
       <workItem from="1754323870312" duration="3000" />
       <workItem from="1754324421532" duration="5000" />
       <workItem from="1754324515607" duration="18000" />
+      <workItem from="1754324710358" duration="85000" />
+      <workItem from="1754324978462" duration="363000" />
+      <workItem from="1754407193783" duration="2000" />
     </task>
+    <task id="LOCAL-00001" summary="restructure and add new learning path 001">
+      <option name="closed" value="true" />
+      <created>1754324743130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754324743130</updated>
+    </task>
+    <task id="LOCAL-00002" summary="restructure and add new learning path 001">
+      <option name="closed" value="true" />
+      <created>1754324759575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754324759575</updated>
+    </task>
+    <task id="LOCAL-00003" summary="les04: package, import, instance member, default constructor">
+      <option name="closed" value="true" />
+      <created>1754325305521</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754325305521</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="restructure and add new learning path 001" />
+    <MESSAGE value="les04: package, import, instance member, default constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="les04: package, import, instance member, default constructor" />
   </component>
 </project>
