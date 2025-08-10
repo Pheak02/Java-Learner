@@ -18,8 +18,4 @@ public class Person {
     public String helloWorld() {
         return "Hello World";
     }
-
-    public String hello(String name){
-    return "Hello " + name;
-    }
 }
